@@ -1,10 +1,14 @@
 # Chat Example
 
+based off
+https://github.com/gorilla/websocket/tree/master/examples/chat
+
 ### todo
 
 	- add private messaging
 	- natural language processing / spellcheck
-	- 
+	- encryption
+	- file transfer/large file sharing
 
 
 This application shows how to use the
