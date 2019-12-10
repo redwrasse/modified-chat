@@ -19,6 +19,13 @@ type Hub struct {
 	// Unregister requests from clients.
 	unregister chan *Client
 }
+//
+//// maintains set of active clients and broadcasts messages to the clients
+//type Hub2 struct {
+//	clients map[*Client]bool // registered clients
+//	broadcast chan []byte
+//
+//}
 
 func newHub() *Hub {
 	return &Hub{
