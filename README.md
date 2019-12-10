@@ -1,5 +1,12 @@
 # Chat Example
 
+### todo
+
+	- add private messaging
+	- natural language processing / spellcheck
+	- 
+
+
 This application shows how to use the
 [websocket](https://github.com/gorilla/websocket) package to implement a simple
 web chat application.
