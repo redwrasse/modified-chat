@@ -1,7 +1,6 @@
 # Chat Example
 
-based off
-https://github.com/gorilla/websocket/tree/master/examples/chat
+this branch (mas) for message authentication scheme
 
 ### todo
 
