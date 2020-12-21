@@ -1,5 +1,5 @@
 # modified-chat
-Security modifications to the gorilla/websocket chat example https://github.com/gorilla/websocket/tree/master/examples/chat
+Security modifications (wip) to the gorilla/websocket [chat example](https://github.com/gorilla/websocket/tree/master/examples/chat)
 
 Follows the notes: https://www.redwrasse.io/notes/designnotesgochat
 
